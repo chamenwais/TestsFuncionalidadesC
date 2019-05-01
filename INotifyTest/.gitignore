@@ -1,0 +1,7 @@
+.settings
+.vscode
+.cproject
+.project
+*/Debug/INotifyTest
+*.o
+*.d
